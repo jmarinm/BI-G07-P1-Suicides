@@ -21,5 +21,5 @@
 - [Notebook Pipeline Python](https://github.com/jmarinm/BI-G07-P1-Suicides/blob/main/notebooks/Proyecto_1_Parte_2.ipynb)
 - [Notebook Pipeline HTML](https://github.com/jmarinm/BI-G07-P1-Suicides/blob/main/notebooks/Proyecto_1_Parte_2.html)
 - [Presentación](https://github.com/jmarinm/BI-G07-P1-Suicides/blob/main/Docs/Salud%20Mental%20-%20Parte%202.pdf)
-- [Video Presentación](https://www.canva.com/design/DAFR5O5_cws/mjx70EJMA6wPcFBImYnbmg/edit?utm_content=DAFR5O5_cws&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Video Presentación](https://youtu.be/79XFKXvpL0Y)
 - [Video Funcionamiento App](https://youtu.be/OG8bMet3Eo0)
