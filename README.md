@@ -20,6 +20,6 @@
 - [Documento](https://github.com/jmarinm/BI-G07-P1-Suicides/blob/main/Docs/Proyecto%201%20-%20Parte%202%20-BI.pdf)
 - [Notebook Pipeline Python](https://github.com/jmarinm/BI-G07-P1-Suicides/blob/main/notebooks/Proyecto_1_Parte_2.ipynb)
 - [Notebook Pipeline HTML](https://github.com/jmarinm/BI-G07-P1-Suicides/blob/main/notebooks/Proyecto_1_Parte_2.html)
-- [Presentación]()
+- [Presentación](https://github.com/jmarinm/BI-G07-P1-Suicides/blob/main/Docs/Salud%20Mental%20-%20Parte%202.pdf)
 - [Video Presentación]()
 - [Video Funcionamiento App](https://youtu.be/OG8bMet3Eo0)
